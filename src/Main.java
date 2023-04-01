@@ -6,5 +6,6 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) throws FileNotFoundException {
         Lex lex = new Lex("src/lex_analize/source.qi");
+        int a = 1;
     }
 }
